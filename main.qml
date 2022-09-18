@@ -5,5 +5,5 @@ Window {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Hello World Haniyeh")
+    title: qsTr("Hello World Haniyeh test with new ssh")
 }
